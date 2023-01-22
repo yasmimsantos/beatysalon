@@ -1,4 +1,4 @@
-# Criação de Website "beautysalon" - NLW/Together na Rocketseat 
+# Criação de Website "Beautysalon" - NLW/Together na Rocketseat 
 
 Nesse projeto foram desenvolvidas habilidades de HTML, CSS e Javascript para a construção de um site como produto final.
 
